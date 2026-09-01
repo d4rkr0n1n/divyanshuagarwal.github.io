@@ -2,7 +2,7 @@
 
 Personal portfolio site for Divyanshu Agarwal, a Digital Marketing Specialist. A single-page site showcasing case studies, services, tools/tech stack, and contact info.
 
-Live at: https://divyanshuagarwal.github.io
+[Portfolio Link](https://divyanshuagarwal.github.io)
 
 ## Structure
 
